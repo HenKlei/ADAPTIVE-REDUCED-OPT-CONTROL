@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/851852346.svg)](https://zenodo.org/doi/10.5281/zenodo.13652743)
+
 # Optimal control of parametrized linear systems using reduced basis methods and machine learning
 In this repository, we provide the code used for the numerical experiments on the extended adaptive model hierarchy.
 
