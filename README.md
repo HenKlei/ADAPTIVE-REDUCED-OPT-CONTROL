@@ -21,4 +21,4 @@ To reproduce the results, we provide the original scripts creating the results
 in the directory [`adaptive_ml_control/examples/`](adaptive_ml_control/examples/).
 
 ## Questions
-If you have any questions, feel free to contact me via email at <hendrik.kleikamp@uni-muenster.de>.
+If you have any questions, feel free to contact me via email at <hendrik.kleikamp@uni-graz.at>.
